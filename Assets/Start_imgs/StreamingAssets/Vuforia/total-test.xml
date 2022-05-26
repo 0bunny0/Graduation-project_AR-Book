@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="03tissue" size="1.000000 1.582511" />
+    <ImageTarget name="02banana" size="1.000000 1.582511" />
+    <ImageTarget name="00egg" size="1.000000 1.582511" />
+    <ImageTarget name="06mask" size="1.000000 1.582511" />
+    <ImageTarget name="07Household-Food-Waste" size="1.000000 1.582511" />
+    <ImageTarget name="9book-video" size="1.000000 1.405492" />
+    <ImageTarget name="2book-45" size="1.000000 0.702975" />
+    <ImageTarget name="1book-23" size="1.000000 0.702975" />
+    <ImageTarget name="0book-cover" size="1.000000 1.405492" />
+    <ImageTarget name="10Hazardous-Waste" size="1.000000 1.582511" />
+    <ImageTarget name="09Recyclable-Waste" size="1.000000 1.582511" />
+    <ImageTarget name="08Residual-Waste" size="1.000000 1.582511" />
+    <ImageTarget name="05pull-tab-can" size="1.000000 1.582511" />
+    <ImageTarget name="04glass-bottle" size="1.000000 1.582511" />
+    <ImageTarget name="01bulb" size="1.000000 1.582511" />
+  </Tracking>
+</QCARConfig>
